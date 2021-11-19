@@ -8,7 +8,7 @@ The goal of this exercise is to design a parking lot REST API with contract from
  - Should be aware that each vehicle take up different amount of parking spots.
  - Should have a display board showing any free parking spot for each vehicle type.
  - The system should support a per-hour parking model.
- - Should notify drivers about ending parking time.
+ - Should notify drivers about the upcoming end of parking time.
 
 ### Shoulds
 
